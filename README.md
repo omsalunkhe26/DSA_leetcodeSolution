@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -14,6 +15,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
