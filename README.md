@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -28,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
