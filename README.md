@@ -67,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
