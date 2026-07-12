@@ -8,12 +8,13 @@ public:
             word[s[i]-'a']++;
         }
         for(int j=0;j<t.length();j++){
-            word[t[j]-'a']--;
+            int idx=t[j]-'a';
+            if(word[idx]==0) return false;
+            
+            word[idx]--;
      
         }
-        for(int i=0;i<26;i++){
-        if(word[i]!=0) return false;
-        }
+        
         return true;
     }     
 };
