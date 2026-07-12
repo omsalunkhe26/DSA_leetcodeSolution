@@ -23,6 +23,7 @@
 | [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0053-maximum-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
