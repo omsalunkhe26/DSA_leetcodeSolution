@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
+| [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -46,12 +47,14 @@
 | [0073-set-matrix-zeroes](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +84,8 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
