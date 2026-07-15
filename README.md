@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -25,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
