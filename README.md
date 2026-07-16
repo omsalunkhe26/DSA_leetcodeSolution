@@ -79,6 +79,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,8 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
