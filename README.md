@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
@@ -23,6 +24,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
@@ -98,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
