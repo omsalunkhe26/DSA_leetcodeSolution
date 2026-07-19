@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
@@ -56,6 +58,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
