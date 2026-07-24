@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0136-single-number/) | Easy |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
