@@ -8,15 +8,12 @@ public:
             return num;
         }
        
-        while(num>=10){
-            int sum=0;
-          while(num>0){
-            sum+=num%10;
-            num/=10;
-          }
-         num=sum;
+        else if(num%9==0){
+            return 9;
         }
-        return num;
+        else{
+            return num%9;
+        }
        
     }
 };
