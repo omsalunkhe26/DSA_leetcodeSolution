@@ -82,6 +82,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@
 | [0009-palindrome-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
