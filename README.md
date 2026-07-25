@@ -24,6 +24,7 @@
 | [0152-maximum-product-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Two Pointers
@@ -122,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
