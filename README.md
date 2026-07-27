@@ -98,6 +98,7 @@
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
+| [2235-add-two-integers](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2235-add-two-integers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
