@@ -41,6 +41,7 @@
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
