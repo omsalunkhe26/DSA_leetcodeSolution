@@ -124,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,5 +145,6 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
