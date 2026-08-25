@@ -40,6 +40,7 @@
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -145,6 +147,11 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
