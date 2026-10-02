@@ -55,10 +55,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0901-online-stock-span](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0901-online-stock-span](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0901-online-stock-span/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +157,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
