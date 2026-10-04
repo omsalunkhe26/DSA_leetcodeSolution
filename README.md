@@ -56,6 +56,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0901-online-stock-span/) | Medium |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
@@ -175,4 +177,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
