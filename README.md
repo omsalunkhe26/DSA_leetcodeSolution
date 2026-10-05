@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -72,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -84,6 +86,7 @@
 | [0018-4sum](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
@@ -119,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +185,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
