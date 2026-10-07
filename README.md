@@ -41,6 +41,7 @@
 | [0018-4sum](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
@@ -162,6 +163,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
