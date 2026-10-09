@@ -63,6 +63,7 @@
 | [0042-trapping-rain-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0901-online-stock-span/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [0058-length-of-last-word](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0020-valid-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
