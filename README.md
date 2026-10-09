@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
@@ -77,6 +78,7 @@
 | [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
@@ -90,6 +92,7 @@
 | [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -111,6 +114,7 @@
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +122,7 @@
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [2235-add-two-integers](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2235-add-two-integers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -137,6 +142,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
