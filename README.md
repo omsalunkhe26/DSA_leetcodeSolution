@@ -34,6 +34,7 @@
 | [1470-shuffle-the-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
