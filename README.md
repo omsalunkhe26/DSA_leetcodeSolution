@@ -35,6 +35,7 @@
 | [1929-concatenation-of-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0645-set-mismatch/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 | [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
