@@ -135,6 +135,7 @@
 | [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [2235-add-two-integers](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2235-add-two-integers/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@
 | [0011-container-with-most-water](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
