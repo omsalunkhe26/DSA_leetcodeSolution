@@ -137,6 +137,7 @@
 | [0009-palindrome-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [2235-add-two-integers](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2235-add-two-integers/) | Easy |
@@ -153,6 +154,7 @@
 | [0020-valid-parentheses](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bit Manipulation
