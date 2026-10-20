@@ -124,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -137,6 +138,7 @@
 | [0009-palindrome-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
@@ -230,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
