@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/omsalunkhe26/DSA_leetcodeSolution/tree/main/0349-intersection-of-two-arrays/) | Easy |
